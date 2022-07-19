@@ -1,5 +1,4 @@
 # veriYapilari
-# veriYapilari
  www.patika.dev
   <hr>
 
